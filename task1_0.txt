@@ -1,0 +1,6 @@
+MP2
+Task 1:
+0. Getting Started with the Data
+	1. Microbiomes vary from person to person, and multiple samples are needed to verify the specifics of each microbiome.  Then, these samples are needed to figure out what the average abundance levels are and to identify any outliers.  We can use the different sets of microbes to identify the causal relationship between these microbes and cirrhosis.
+	2. 764 Samples Analyzed
+	3. 149 Microbes Identified
